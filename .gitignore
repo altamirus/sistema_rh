@@ -2,5 +2,7 @@
 venv
 *.pyc
 __pycache__
-gestao_rh/db.sqlite3
+*.gestao_rh/db.sqlite3
+.gitignore
 
+gestao_rh/db.sqlite3
